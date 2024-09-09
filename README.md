@@ -37,7 +37,7 @@ The Routine Management System is an application developed with Python and Tkinte
 ### Technology Stack
 
 - **Language:** Python
-- **GUI Library:** Tkinter
+- **GUI Library:** Tkinter & CustomTkinter
 - **Database:** SQLite
 
 ### Watch the Presentation Video
